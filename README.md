@@ -1,1 +1,4 @@
-# docker-container
+docker container to execute poc :
+kafka
+zookeper
+cassandra
